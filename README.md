@@ -1,4 +1,6 @@
 
+[![Build Status](https://mohammadrrahman.visualstudio.com/Space%20Game%20-%20web/_apis/build/status/razibur.mslearn-tailspin-spacegame-web?branchName=master)](https://mohammadrrahman.visualstudio.com/Space%20Game%20-%20web/_build/latest?definitionId=5&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
